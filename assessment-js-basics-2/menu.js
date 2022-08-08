@@ -77,7 +77,7 @@ console.log(pizza)
 
     Print the value of your category variable. 
 */
-
+const {rating} = 10/10;
 
 
 //////////////////PROBLEM 3////////////////////
